@@ -1,1 +1,4 @@
-testingScreenShoots/
+node_modules/
+testingScreenShots/
+.env
+.DS_Store
